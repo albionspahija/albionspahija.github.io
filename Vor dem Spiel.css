@@ -1,0 +1,48 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial;
+    background-color: khaki;
+    text-align:center;
+}
+
+#wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: lightsalmon;
+}
+
+li {
+  list-style-type: none;
+}
+
+
+nav {
+    width: 100%;
+    display: inline;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    float: right;
+    text-align: right;
+}
+
+a:hover {
+  background-color: paleturquoise;
+}
+
+footer {
+    background-color: lightsalmon;
+    float: none;
+    text-align: center;
+}
+
+span {
+    background-color: yellow;
+}
