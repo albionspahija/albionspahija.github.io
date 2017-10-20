@@ -18,6 +18,17 @@ header {
     background-color: lightsalmon;
 }
 
+#Anfangsbild {
+  height: 450px;
+  width: 300px;
+}
+
+#Anfangsbild:active {
+  height: 600px;
+  width: 450px;
+}
+
+
 li {
   list-style-type: none;
 }
