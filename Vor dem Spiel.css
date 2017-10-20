@@ -18,6 +18,27 @@ header {
     background-color: lightsalmon;
 }
 
+#E-Jun_Spielfeld {
+  height: 225px;
+  width: 350px;
+}
+
+#E-Jun_Spielfeld:active {
+  height: 350px;
+  width: 475px;
+}
+
+
+#D-Jun_B-Jun_Spielfeld {
+  height: 250px;
+  width: 350px;
+}
+
+#BallAusTabelle:active {
+  height: 350px;
+  width: 450px;
+}
+
 li {
   list-style-type: none;
 }
