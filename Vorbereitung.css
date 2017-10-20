@@ -18,6 +18,17 @@ header {
     background-color: lightsalmon;
 }
 
+#SchiriAusrüstung {
+  height: 500px;
+  width: 300px;
+}
+
+#SchiriAusr:active {
+  height: 700px;
+  width: 500px;
+}
+
+
 li {
   list-style-type: none;
 }
