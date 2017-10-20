@@ -24,6 +24,92 @@ body {
   width: 750px;
 }
 
+#BallAusTabelle {
+  height: 350px;
+  width: 500px;
+}
+
+#BallAusTabelle:active {
+  height: 500px;
+  width: 750px;
+}
+
+#Eckball {
+  height: 350px;
+  width: 550px;
+}
+
+#Eckball:active {
+  height: 550px;
+  width: 750px;
+}
+
+#Penalty {
+  height: 350px;
+  width: 500px;
+}
+
+#Penalty:active {
+  height: 500px;
+  width: 750px;
+}
+
+
+#PenaltyEntscheid {
+  height: 350px;
+  width: 600px;
+}
+
+#PenaltyEntscheid:active {
+  height: 600px;
+  width: 950px;
+}
+
+#Freistösse {
+  height: 350px;
+  width: 500px;
+}
+
+#Freistösse:active {
+  height: 500px;
+  width: 750px;
+}
+
+
+#SchiedsrichterGestik {
+  height: 350px;
+  width: 500px;
+}
+
+#SchiedsrichterGestik:active {
+  height: 500px;
+  width: 750px;
+}
+
+
+#Stoppuhr {
+  height: 350px;
+  width: 500px;
+}
+
+#Stoppuhr:active {
+  height: 500px;
+  width: 750px;
+}
+
+
+#NötigeSpielerTabelle {
+  height: 275px;
+  width: 550px;
+}
+
+#NötigeSpielerTabelle:active {
+  height: 550px;
+  width: 825px;
+}
+
+
+
 header {
     background-color: lightsalmon;
 }
