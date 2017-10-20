@@ -88,13 +88,13 @@ body {
 
 
 #Stoppuhr {
-  height: 350px;
-  width: 500px;
+  height: 200px;
+  width: 140px;
 }
 
 #Stoppuhr:active {
-  height: 500px;
-  width: 750px;
+  height: 340px;
+  width: 200px;
 }
 
 
