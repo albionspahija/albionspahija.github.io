@@ -33,7 +33,7 @@ li {
   list-style-type: none;
 }
 
-nav a{
+nav {
     width: 100%;
     display: inline;
     text-decoration: none;
