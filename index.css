@@ -33,11 +33,11 @@ li {
   list-style-type: none;
 }
 
-nav {
+nav a{
     width: 100%;
     display: inline;
     text-decoration: none;
-    color: black;
+    color: blue;
     background-color: white;
     float: right;
     text-align: right;
