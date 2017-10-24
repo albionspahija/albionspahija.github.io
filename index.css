@@ -36,12 +36,15 @@ li {
 nav {
     width: 100%;
     display: inline;
-    text-decoration: none;
-    color: blue;
     background-color: white;
     float: right;
     text-align: right;
 
+}
+
+nav a {
+  text-decoration: none;
+  color: blue;
 }
 
 a:hover {
